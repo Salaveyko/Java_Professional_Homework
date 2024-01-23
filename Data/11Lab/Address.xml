@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<address>
+    <cities>
+        <city>
+            <city_name>Rivne</city_name>
+            <street>
+                <street_name>Kotliarevskogo</street_name>
+                <build>14</build>
+                <build>12</build>
+                <build>10</build>
+                <build>9</build>
+            </street>
+            <street>
+                <street_name>Jukovskogo</street_name>
+                <build>39</build>
+                <build>37</build>
+                <build>35</build>
+            </street>
+        </city>
+        <city>
+            <city_name>Lutsk</city_name>
+            <street>
+                <street_name>Rivnenska</street_name>
+                <build>21</build>
+                <build>19</build>
+                <build>17</build>
+            </street>
+        </city>
+    </cities>
+</address>

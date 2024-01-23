@@ -1,0 +1,17 @@
+[
+  {
+    "country": "USA",
+    "town": "New York",
+    "street": "Independence"
+  },
+  {
+    "country": "UK",
+    "town": "London",
+    "street": "Oxford"
+  },
+  {
+    "country": "Ukraine",
+    "town": "Kyiv",
+    "street": "Soborna"
+  }
+]

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><address>
+  <cities>
+    <city>
+      <city_name>Kyiv</city_name>
+      <street>
+        <street_name>Bankova</street_name>
+        <build>12</build>
+        <build>13</build>
+        <build>14</build>
+      </street>
+      <street>
+        <street_name>Soborna</street_name>
+        <build>1</build>
+        <build>3</build>
+        <build>4</build>
+      </street>
+    </city>
+    <city>
+      <city_name>Rivne</city_name>
+      <street>
+        <street_name>Stepana Bandery</street_name>
+        <build>21</build>
+        <build>23</build>
+        <build>25</build>
+      </street>
+      <street>
+        <street_name>Soborna</street_name>
+        <build>1</build>
+        <build>3</build>
+        <build>4</build>
+      </street>
+    </city>
+  </cities>
+</address>

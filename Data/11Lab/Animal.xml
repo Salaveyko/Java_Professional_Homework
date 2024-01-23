@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<animal>
+    <cat>
+        <age>6</age>
+        <breed>Sphynx</breed>
+        <name>Marsel</name>
+        <weight>6</weight>
+    </cat>
+    <cat>
+        <age>5</age>
+        <breed>Oriental</breed>
+        <name>Murzik</name>
+        <weight>4</weight>
+    </cat>
+</animal>

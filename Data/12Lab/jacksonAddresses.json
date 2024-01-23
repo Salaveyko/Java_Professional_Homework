@@ -1,0 +1,13 @@
+[ {
+  "country" : "Ukraine",
+  "town" : "Rivne",
+  "street" : "Soborna"
+}, {
+  "country" : "Ukraine",
+  "town" : "Lviv",
+  "street" : "Stepana Bandery"
+}, {
+  "country" : "Poland",
+  "town" : "Warsaw",
+  "street" : "Koscielna"
+} ]
